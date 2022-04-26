@@ -1,8 +1,7 @@
-![I am Electrical Electronic Engineer]
-
-<img src = "https://github.com/arslanbatu97/arslanbatu97/blob/main/electro-ball-pikachu.gif" width = "498" />
 
 # Hi there 👋, I am Batuhan
+
+<img src = "https://github.com/arslanbatu97/arslanbatu97/blob/main/electro-ball-pikachu.gif" width = "350" />
 
 I am an Electrical Electronics Engineer student. I am developing myself embedded software fields.
 I'm improving myself Linux envoriment, Embedded Linux and RTOS.

@@ -1,4 +1,6 @@
-![I am Electrical Electronic Engineer]<img src = "https://github.com/arslanbatu97/arslanbatu97/blob/main/electro-ball-pikachu.gif" width = "498" />
+![I am Electrical Electronic Engineer]
+
+<img src = "https://github.com/arslanbatu97/arslanbatu97/blob/main/electro-ball-pikachu.gif" width = "498" />
 
 # Hi there 👋, I am Batuhan
 

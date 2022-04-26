@@ -7,7 +7,7 @@ I am an Electrical Electronics Engineer student. I am developing myself embedded
 I'm improving myself Linux envoriment, Embedded Linux and RTOS.
 
 ## Skills and Experience
-Skills: C/C++/Python/Embedded Linux
+Skills: C/C++/Python
 
 
 

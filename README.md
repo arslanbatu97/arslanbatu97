@@ -1,10 +1,11 @@
 ![I am Electrical Electronic Engineer](https://pbs.twimg.com/profile_banners/1481949572/1638082722/600x200)
 
-### Hi there 👋, I am Batuhan
+# Hi there 👋, I am Batuhan
 
 I am an Electrical Electronics Engineer student. I am developing myself embedded software fields.
 I'm improving myself Linux envoriment, Embedded Linux and RTOS.
 
+## Skills and Experience
 Skills: C/C++/Python/Embedded Linux
 
 

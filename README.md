@@ -1,5 +1,5 @@
 
-# Hi there 👋, I am Batuhan
+# Hi everyone 👋, I am Batuhan
 
 <img src = "https://github.com/arslanbatu97/arslanbatu97/blob/main/electro-ball-pikachu.gif" width = "350" />
 

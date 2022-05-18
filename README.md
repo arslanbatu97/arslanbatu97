@@ -6,7 +6,7 @@
 I am an Electrical Electronics Engineer student. I am developing myself embedded software fields.
 
 ## Skills and Experience
-Skills: C/Python
+Skills: C/C++/Python
 
 
 

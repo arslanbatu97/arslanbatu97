@@ -4,7 +4,6 @@
 <img src = "https://github.com/arslanbatu97/arslanbatu97/blob/main/electro-ball-pikachu.gif" align = "right" width = "350" />
 
 I am an Electrical Electronics Engineer student. I am developing myself embedded software fields.
-I'm improving myself Linux envoriment, Embedded Linux and RTOS.
 
 ## Skills and Experience
 Skills: C/Python

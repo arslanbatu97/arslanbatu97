@@ -1,9 +1,9 @@
 
-# Hi everyone 👋, I am Batuhan. I am an Electrical Electronics Engineer. 
+# Hi everyone 👋, 
 
 
+I am Batuhan. I am an Electrical Electronics Engineer. 
 <img src = "https://github.com/arslanbatu97/arslanbatu97/blob/main/electro-ball-pikachu.gif" align = "right" width = "350" />
-
 
 ## Skills and Experience
 Skills: C++

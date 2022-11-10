@@ -1,5 +1,5 @@
 
-# Hi everyone 👋, 
+# Welcome The Path 👋, 
 
 
 I am Batuhan. I am an Electrical Electronics Engineer. 

@@ -11,16 +11,11 @@ I'm Batuhan, an Embedded Software Engineer with a passion for building efficient
 - **Communication Protocols:** UART, SPI, I2C, CAN
 - **Tools and Utilities:** Git, JIRA, YouTrack, GNU Tools, Make, CMake
 
-## Projects
-- [Anadolu ISUZU ] - [Brief description of your project 1]
-- [Your project 2] - [Brief description of your project 2]
-- [Your project 3] - [Brief description of your project 3]
-
 
 ## Certifications
-- [Certification 1] - [Issuing Organization], [2022]
-- [Certification 2] - [Issuing Organization], [2022]
-- [Certification 3] - [Issuing Organization], [2022]
+- [A Quick Introduction to C Language for Embedded Systems] - [UDEMY], [2022]
+- [Version Controls: Git and GitHub] - [BTK Akademi], [2022]
+- [Python Programming] - [Middle East Technical University], [2022]
 
 ## Contact
 You can contact me via batuarslan97@gmail.com or https://www.linkedin.com/in/batuhanarslan97/. Let's connect! 👍🏽

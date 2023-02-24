@@ -13,9 +13,9 @@ I'm Batuhan, an Embedded Software Engineer with a passion for building efficient
 
 
 ## Certifications
-- [A Quick Introduction to C Language for Embedded Systems] - [UDEMY], [2022]
-- [Version Controls: Git and GitHub] - [BTK Akademi], [2022]
-- [Python Programming] - [Middle East Technical University], [2022]
+- A Quick Introduction to C Language for Embedded Systems - [UDEMY], [2022]
+- Version Controls: Git and GitHub - [BTK Akademi], [2022]
+- Python Programming - [Middle East Technical University], [2022]
 
 ## Contact
 You can contact me via batuarslan97@gmail.com or https://www.linkedin.com/in/batuhanarslan97/. Let's connect! 👍🏽

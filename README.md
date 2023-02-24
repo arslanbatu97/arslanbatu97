@@ -8,7 +8,7 @@ I'm Batuhan, an Embedded Software Engineer with a passion for building efficient
 - **Development Environments:** Keil uVision, Eclipse, CLion, Visual Studio
 - **Hardware Platforms:** ARM Cortex-M
 - **Communication Protocols:** UART, SPI, I2C, CAN
-- **Tools and Utilities:** Git, JIRA, YouTrack, GNU Tools, Make, CMake
+- **Tools and Utilities:** Git, Tortoise SVN, JIRA, YouTrack, GNU Tools, Make, CMake
 
 
 ## Certifications

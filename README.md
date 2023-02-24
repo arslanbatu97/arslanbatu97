@@ -1,7 +1,7 @@
 
 
-# <span style="color: #2C3E50;">Hello, World! 👋🏽</span>
-<img src = "https://github.com/arslanbatu97/arslanbatu97/blob/main/electro-ball-pikachu.gif" width = "350" />I'm Batuhan, an Embedded Software Engineer with a passion for building efficient and reliable software solutions for the real world. I'm currently working on Embedded Software Engineer where I'm applying my expertise to industrial cluster.
+# <span style="color: #2C3E50;">Hello, Everyone! 👋🏽</span>
+I'm Batuhan, an Embedded Software Engineer with a passion for building efficient and reliable software solutions for the real world. I'm currently working on Embedded Software Engineer where I'm applying my expertise to industrial cluster.
 
 ## <span style="color: #2980B9;">Skills</span>
 - **Programming Languages:** C, C++, Python

@@ -4,7 +4,7 @@
 ## <span style="color: #2980B9;">Introduction</span>
 I'm Batuhan, an Embedded Software Engineer with a passion for building efficient and reliable software solutions for the real world. I'm currently working on Embedded Software Engineer where I'm applying my expertise to industrial cluster.<img src = "https://github.com/arslanbatu97/arslanbatu97/blob/main/electro-ball-pikachu.gif" align = "right" width = "350" />
 
-## Skills
+## <span style="color: #2980B9;">Skills</span>
 - **Programming Languages:** C, C++, Python
 - **Development Environments:** Keil uVision, Eclipse, CLion, Visual Studio
 - **Hardware Platforms:** ARM Cortex-M

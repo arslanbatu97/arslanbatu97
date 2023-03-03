@@ -7,7 +7,7 @@ I'm Batuhan and I am  an Embedded Software Engineer with a passion for building 
 - **Programming Languages:** C, C++, Python
 - **Development Environments:** Keil uVision, Eclipse, CLion, Visual Studio
 - **Hardware Platforms:** ARM Cortex-M
-- **Communication Protocols:** UART, SPI, I2C, CAN
+- **Communication Protocols:** UART, SPI, I2C, CAN, CANOpen
 - **Tools and Utilities:** Git, Tortoise SVN, JIRA, YouTrack, GNU Tools, Make, CMake
 
 
@@ -17,5 +17,5 @@ I'm Batuhan and I am  an Embedded Software Engineer with a passion for building 
 - Python Programming - [Middle East Technical University], [2022]
 - Erasmus - [Warsaw University of echnology], [2020]
 ## Contact
-You can contact me via batuarslan97@gmail.com or https://www.linkedin.com/in/batuhanarslan97/. Let's connect! 👍🏽
+You can contact me via batuarslan97@gmail.com or https://www.linkedin.com/in/batuhanarslan97/.
 

@@ -16,10 +16,10 @@ I'm Batuhan and I am  an Embedded Software Engineer with a passion for building 
 - Erasmus - [Warsaw University of Technology], [2020]
 
 ## 📈 GitHub Stats
-![Batuhan's github stats](https://github-readme-stats.vercel.app/api?username=batuhannar97&show_icons=true&count_private=true&hide=stars,contribs&theme=dark)
+![Batuhan's github stats](https://github-readme-stats.vercel.app/api?username=baduymus&show_icons=true&count_private=true&hide=stars,contribs&theme=dark)
 
 ## 🚀 Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=batuhannar97)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=baduymus)
 
 ## 📬 Contact
 You can contact me via batuarslan97@gmail.com or https://www.linkedin.com/in/batuhanarslan97/.

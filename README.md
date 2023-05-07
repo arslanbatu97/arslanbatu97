@@ -19,7 +19,7 @@ I'm Batuhan and I am  an Embedded Software Engineer with a passion for building 
 ![Batuhan's github stats](https://github-readme-stats.vercel.app/api?username=baduymus&show_icons=true&count_private=true&hide=stars,contribs&theme=dark)
 
 ## 🚀 Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=baduymus)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/baduymus)
 
 ## 📬 Contact
 You can contact me via batuarslan97@gmail.com or https://www.linkedin.com/in/batuhanarslan97/.
